@@ -81,6 +81,3 @@ Choose:
 * GUI version
 
 ---
-
-
-Just tell me.
